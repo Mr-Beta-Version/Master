@@ -20,7 +20,5 @@ $ git clone https://github.com/BlackB07/Master
 
 $ cd Master
 
-$ termux-setup-storage
-
 $ python2 target.py
 
